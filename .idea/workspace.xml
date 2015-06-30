@@ -2,9 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1753ce53-ab00-447f-95f7-d56c25dbeb10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/createServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CCG.iml" afterPath="$PROJECT_DIR$/.idea/CCG.iml" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\.sailsrc" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\controllers\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\models\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\policies\sessionAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\badRequest.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\forbidden.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\notFound.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\ok.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\serverError.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\services\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\images\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\js\dependencies\sails.io.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\styles\importer.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\templates\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\blueprints.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\connections.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\cors.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\csrf.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\env\development.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\env\production.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\globals.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\http.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\i18n.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\_README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\de.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\en.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\es.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\fr.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\log.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\models.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\policies.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\routes.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\session.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\sockets.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\views.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\package.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\clean.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\coffee.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\concat.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\copy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\cssmin.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\jst.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\less.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\sails-linker.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\sync.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\uglify.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\watch.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\pipeline.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\build.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\buildProd.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\compileAssets.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\default.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\linkAssets.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\linkAssetsBuild.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\linkAssetsBuildProd.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\prod.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\syncAssets.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\403.ejs" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\404.ejs" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\500.ejs" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\homepage.ejs" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\layout.ejs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CCG.iws" />
@@ -25,18 +94,7 @@
     <favorites_list name="CCG" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="createServer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Server/createServer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5180921">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,6 +153,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,8 +175,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,33 +241,45 @@
       <option name="number" value="Default" />
       <updated>1434644134240</updated>
     </task>
+    <task id="LOCAL-00001" summary="deleted CCG">
+      <created>1435673743266</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1435673743266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deleted CCG" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted CCG" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -220,15 +290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.110869564">
           <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/createServer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5180921">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
