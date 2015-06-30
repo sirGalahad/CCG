@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1753ce53-ab00-447f-95f7-d56c25dbeb10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/createServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CCG.iml" afterPath="$PROJECT_DIR$/.idea/CCG.iml" />
+    <list default="true" id="1753ce53-ab00-447f-95f7-d56c25dbeb10" name="Default" comment="added sails blog">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/controllers/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/models/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/services/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/assets/images/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/assets/templates/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/assets/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/.sailsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/views/403.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/views/404.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/views/500.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/locales/_README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/responses/badRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/blueprints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/buildProd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/coffee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/compileAssets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/connections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/cors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/csrf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/cssmin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/locales/de.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/env/development.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/locales/en.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/locales/es.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/responses/forbidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/locales/fr.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/globals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/views/homepage.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/assets/styles/importer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/jst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/views/layout.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/linkAssets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/linkAssetsBuild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/linkAssetsBuildProd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/models.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/responses/notFound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/responses/ok.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/pipeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/policies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/env/production.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/assets/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/sails-linker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/assets/js/dependencies/sails.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/responses/serverError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/api/policies/sessionAuth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/sockets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/register/syncAssets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/uglify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/config/views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/CCG-blog/tasks/config/watch.js" />
+      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\createServer.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CCG.iws" />
@@ -25,18 +95,7 @@
     <favorites_list name="CCG" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="createServer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Server/createServer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5180921">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,6 +154,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,17 +173,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CCG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CCG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CCG-blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../src/amarosa_7-4_ods" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
@@ -187,29 +264,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added sails blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sails blog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -220,15 +302,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.110869564">
           <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server/createServer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5180921">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
