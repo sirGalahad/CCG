@@ -1,79 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1753ce53-ab00-447f-95f7-d56c25dbeb10" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\.sailsrc" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\controllers\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\models\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\policies\sessionAuth.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\badRequest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\forbidden.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\notFound.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\ok.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\responses\serverError.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\api\services\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\app.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\images\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\js\dependencies\sails.io.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\styles\importer.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\assets\templates\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\blueprints.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\connections.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\cors.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\csrf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\env\development.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\env\production.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\globals.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\http.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\i18n.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\_README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\de.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\en.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\es.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\locales\fr.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\log.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\models.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\policies.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\routes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\session.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\sockets.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\config\views.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\clean.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\coffee.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\concat.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\copy.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\cssmin.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\jst.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\less.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\sails-linker.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\sync.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\uglify.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\config\watch.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\pipeline.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\build.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\buildProd.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\compileAssets.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\default.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\linkAssets.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\linkAssetsBuild.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\linkAssetsBuildProd.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\prod.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\tasks\register\syncAssets.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\403.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\404.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\500.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\homepage.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\dev\TestsProjects\CCG\Server\CCG-blog\views\layout.ejs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+    <list default="true" id="1753ce53-ab00-447f-95f7-d56c25dbeb10" name="Default" comment="deleted CCG-Blog and added Sails package">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/controllers/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/models/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/services/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/assets/images/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/assets/templates/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/assets/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/.sailsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/views/403.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/views/404.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/views/500.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/locales/_README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/responses/badRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/blueprints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/buildProd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/coffee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/compileAssets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/connections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/cors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/csrf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/cssmin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/locales/de.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/env/development.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/locales/en.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/locales/es.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/responses/forbidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/locales/fr.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/globals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/views/homepage.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/assets/styles/importer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/jst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/views/layout.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/linkAssets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/linkAssetsBuild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/linkAssetsBuildProd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/models.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/responses/notFound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/responses/ok.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/pipeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/policies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/env/production.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/assets/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/sails-linker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/assets/js/dependencies/sails.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/responses/serverError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/api/policies/sessionAuth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/sockets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/register/syncAssets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/uglify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/config/views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server/Sails/tasks/config/watch.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CCG.iws" />
@@ -173,6 +172,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CCG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CCG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -247,7 +264,13 @@
       <option name="project" value="LOCAL" />
       <updated>1435673743266</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deleted CCG-Blog and added Sails package">
+      <created>1435674258656</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1435674258656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -257,7 +280,7 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -279,7 +302,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deleted CCG" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted CCG" />
+    <MESSAGE value="deleted CCG-Blog and added Sails package" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted CCG-Blog and added Sails package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
